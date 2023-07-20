@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # i_am_poor
 
 A new Flutter project to make my own app from scratch.
@@ -18,4 +17,3 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # flutter_course
 Flutter course from App Brewery
->>>>>>> origin/main
